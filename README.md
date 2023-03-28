@@ -18,7 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklevyy&show_icons=true&locale=en&layout=compact" alt="patricklevyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patricklevyy&show_icons=true&locale=en" alt="patricklevyy" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patricklevyy&show_icons=true&locale=en" alt="patricklevyy" /></p> -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklevyy&show_icons=true&count_private=true&theme=nord&hide=prs,issues,contribs)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricklevyy&" alt="patricklevyy" /></p>
 
