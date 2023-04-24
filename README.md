@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patricklevyy" alt="patricklevyy" /></a> </p>
 
-- 📫 How to reach me **gnanmienlienda@gmail.com**
+- 📫 How to reach me **gnanmienlie-patrick-levy.n-da@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
