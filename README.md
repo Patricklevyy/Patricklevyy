@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklevyy&show_icons=true&locale=en&layout=compact" alt="patricklevyy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricklevyy&" alt="patricklevyy" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20%20%20%20Patricklevyy)](https://git.io/streak-stats)
 
